@@ -1,2 +1,2 @@
 DEFAULT_ARCHITECTURE atom clock_divider
-DEFAULT_FILE atom clock_divider.v
+DEFAULT_FILE atom clock_divider/flow.fc
