@@ -1,2 +1,0 @@
-DEFAULT_FILE atom address_decode_rtl.vhd
-DEFAULT_ARCHITECTURE atom rtl
